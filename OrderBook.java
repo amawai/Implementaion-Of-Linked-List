@@ -4,8 +4,7 @@
  *It is sorted from highest-lowest price. If the prices are equal, they will be placed according to whether thay
  *are BidOrders or OfferOrders--newly added equally priced BidOrders are placed after the equally priced BidOrders
  *and newly added equally priced OfferOrders are placed before.  
- * @author Amanda Wai   ID: 27518714
- * @author Luca Popesco ID: 27742339
+ * @author Amanda Wai
  * 
  */
 public class OrderBook implements anonymous{
