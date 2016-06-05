@@ -1,5 +1,4 @@
 /**
- *COMP 249 Section QQ
  *OrderBook is a doubly-linked list containing BidOrder and OfferOrder objects
  *It is sorted from highest-lowest price. If the prices are equal, they will be placed according to whether thay
  *are BidOrders or OfferOrders--newly added equally priced BidOrders are placed after the equally priced BidOrders
